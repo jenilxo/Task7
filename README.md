@@ -19,4 +19,5 @@ You May Need To Execute This Commands For Compatibility :
 7) getenforce //Check Status Should Be Permissive 
 
 Feel Free To Contact Me : https://www.linkedin.com/in/jenil-sathwara-b59572146/
-Video : 
+
+Video : https://www.linkedin.com/posts/jenil-sathwara-b59572146_worldrecordholder-training-internship-activity-6818877806202650624-ybhA
